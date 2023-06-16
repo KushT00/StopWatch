@@ -22,6 +22,7 @@ To reset the stopwatch, click the "Reset" button.
 Repeat steps 3-6 as needed to measure multiple time intervals.
 
 INSTALLATION
+
 To use this stopwatch project locally, follow these steps:
 
 Clone or download the project repository.
